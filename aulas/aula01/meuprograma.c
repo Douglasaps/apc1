@@ -1,10 +1,8 @@
 #include <stdio.h>
-#include <math.h>
-//funçao principal
+//funçao princpal obrigatoria
 int main() {
-printf("hello world!\n");
-  printf(a raiz quadrada de 14 e %f\n, sqrt(14));
+//programa
+printf("hello world");
   
   return 0;
 }
-
