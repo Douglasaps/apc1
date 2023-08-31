@@ -6,7 +6,9 @@ int main() {
 float nota_a1 = 7.0f;
 float nota_a2 = 7.0f;
 
-  float media = 0.4 * nota_a1 + 0.6 * nota_a2;
+  float media = 0.4f * nota_a1 + 0.6f * nota_a2;
+
+  printf("a média é %.2f", media);
 
   return 0;
 }
